@@ -1,1 +1,1 @@
-console.log('Hello');
+alert('John best man');
